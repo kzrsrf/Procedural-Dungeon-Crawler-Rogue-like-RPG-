@@ -1,6 +1,4 @@
-Itch.io'da yayınlarken ya da projenin GitHub sayfasına yüklediğinde insanların (ve mülakattaki jürinin) ilk bakacağı yer burasıdır. Profesyonel bir Indie RPG projesine yakışacak, temiz ve dikkat çekici bir **`README.md`** dosyası hazırladım.
 
-Proje klasörünün içinde **`README.md`** adında yeni bir dosya oluştur ve aşağıdaki metni aynen içine yapıştır:
 
 ```markdown
 # ⚔️ Procedural Dungeon Crawler RPG
@@ -74,12 +72,5 @@ python main.py
 ---
 
 ```
-
-### 💡 Neden Bu Şekilde Hazırladık?
-* **Profesyonel Dil:** Uluslararası oyun geliştirme standartlarına uygun olarak tamamen **İngilizce** yazdım. Itch.io'da global oyuncu kitlesinin ve akademik jürilerin en çok dikkat ettiği şey budur.
-* **Algoritma Vurgusu:** A* ve `heapq` optimizasyonlarını özellikle belirttim ki kod kaliteni ön plana çıkarsın.
-* **Kontrol Tablosu:** Markdown tablo yapısıyla oyuncular için son derece okunaklı bir kılavuz oluşturduk.
-
-Her şey hazır! Proje hem kod yapısıyla hem de sunumuyla tam bir "Indie" ürünü oldu. Sırada Itch.io için kapak görseli planlamak mı var, yoksa kod içinde değiştirmek istediğin başka bir mekanik var mı?
 
 ```
